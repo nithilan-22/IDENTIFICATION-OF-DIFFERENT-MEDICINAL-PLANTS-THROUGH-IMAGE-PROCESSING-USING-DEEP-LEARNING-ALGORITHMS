@@ -1,1 +1,2 @@
 # IDENTIFICATION-OF-DIFFERENT-MEDICINAL-PLANTS-THROUGH-IMAGE-PROCESSING-USING-DEEP-LEARNING-ALGORITHMS
+Ayurvedic medicinal plants are very important since it is one of the key sources of medicine. It can cure various diseases such as Cardiac disorders, Respiratory diseases, Fertility issues etc. So a precise identification of medicinal plant is crucial for proper treatment. Manual recognition can be imprecise and also will be time consuming.
